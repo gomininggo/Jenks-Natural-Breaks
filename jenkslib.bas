@@ -1,7 +1,7 @@
 ' Jenks Natural Breaks Macro
 ' https://github.com/adikt/Jenks-Natural-Breaks
 ' Translated by: Nick Easton
-' From Source: Geostats Javascript library by Simon Geoget
+' From Source: Geostats Javascript library by Simon Geoget and Doug Curl
 ' Available: https://github.com/simogeo/geostats
 
 Function RunJenks(theRange As Range, numClasses As Integer) As Double()
