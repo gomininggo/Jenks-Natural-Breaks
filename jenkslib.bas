@@ -1,5 +1,5 @@
 ' Jenks Natural Breaks Macro
-' https://github.com/adikt/Jenks-Natural-Breaks
+' https://github.com/gomininggo/Jenks-Natural-Breaks
 ' Translated by: Nick Easton
 ' From Source: Geostats Javascript library by Simon Geoget and Doug Curl
 ' Available: https://github.com/simogeo/geostats
